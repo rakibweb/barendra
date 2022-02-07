@@ -1,0 +1,8 @@
+user-agent: *
+allow: /
+disallow: /wp-admin
+disallow: /admin
+disallow: /admin-folder
+disallow: /cgbin
+disallow: /secret-directories
+disallow: /cms

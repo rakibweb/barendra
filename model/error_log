@@ -1,0 +1,79 @@
+[05-Aug-2020 14:06:05 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[05-Aug-2020 14:06:05 UTC] PHP Warning:  date_create(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/barendro/public_html/model/cartAction.php on line 152
+[05-Aug-2020 14:06:05 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[05-Aug-2020 14:16:05 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[05-Aug-2020 14:16:05 UTC] PHP Warning:  date_create(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/barendro/public_html/model/cartAction.php on line 152
+[05-Aug-2020 14:16:05 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[21-Aug-2020 07:35:03 UTC] PHP Notice:  Undefined index: promo in /home/barendro/public_html/model/applypromo.php on line 5
+[21-Aug-2020 07:35:09 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[21-Aug-2020 07:35:09 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[21-Aug-2020 07:35:14 UTC] PHP Notice:  Undefined index: email in /home/barendro/public_html/model/subsribe.php on line 3
+[21-Aug-2020 07:35:19 UTC] PHP Notice:  Undefined index: email in /home/barendro/public_html/model/verifyemail.php on line 4
+[10-Oct-2020 08:02:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:02:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:02:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:02:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:02:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:03:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:03:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:03:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[10-Oct-2020 08:04:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[30-Oct-2020 11:08:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[14-Jan-2021 23:43:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/barendro/public_html/model/login.php on line 9
+[24-Jan-2021 18:22:40 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Jan-2021 18:22:40 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[30-Jan-2021 05:37:06 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[30-Jan-2021 05:37:06 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[05-Feb-2021 23:43:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/barendro/public_html/model/cartAction.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/barendro/public_html/model/cartAction.php on line 23
+[10-Mar-2021 09:19:50 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[10-Mar-2021 09:19:50 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[10-Mar-2021 16:05:51 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[10-Mar-2021 16:05:51 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[10-Mar-2021 16:07:44 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[10-Mar-2021 16:07:44 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[17-Mar-2021 17:33:16 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[17-Mar-2021 17:33:16 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[17-Mar-2021 17:34:32 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[17-Mar-2021 17:34:32 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[30-Mar-2021 16:31:36 UTC] PHP Notice:  Undefined index: user in /home/barendro/public_html/model/login.php on line 4
+[30-Mar-2021 16:31:36 UTC] PHP Notice:  Undefined index: password in /home/barendro/public_html/model/login.php on line 5
+[18-Apr-2021 08:14:18 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[18-Apr-2021 08:14:18 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[24-Apr-2021 03:49:34 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 03:49:34 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[24-Apr-2021 04:19:48 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 04:19:48 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[24-Apr-2021 04:21:45 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 04:21:46 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[24-Apr-2021 04:26:27 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 04:26:27 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/barendro/public_html/model/cartAction.php on line 182
+[24-Apr-2021 07:55:55 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/barendro/public_html/model/cartAction.php on line 182
+[25-Apr-2021 06:38:01 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[17-May-2021 12:12:28 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[17-May-2021 12:12:33 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[06-Jun-2021 13:44:16 UTC] PHP Notice:  Undefined index: PromoDiscount in /home/barendro/public_html/model/cartAction.php on line 135
+[06-Jun-2021 13:44:21 UTC] PHP Notice:  Undefined variable: sessData in /home/barendro/public_html/model/cartAction.php on line 235
+[28-Jun-2021 08:59:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[28-Jun-2021 11:13:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[28-Jun-2021 11:25:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[29-Jun-2021 02:26:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[29-Jun-2021 02:48:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[29-Jun-2021 03:13:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[29-Jun-2021 07:39:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
+[29-Jun-2021 07:49:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'barendro_user'@'localhost' (using password: YES) in /home/barendro/public_html/model/db_config.php on line 8
